@@ -17,6 +17,12 @@ Understanding this is especially important when working with models that charge 
 
 ---
 
+## View Project 
+
+TokenEfficiencyProject to TokenEfficiencyProject.pdf 
+
+---
+
 ## 🔍 Key Questions
 
 - How does token count change with sentence length and structure?  
