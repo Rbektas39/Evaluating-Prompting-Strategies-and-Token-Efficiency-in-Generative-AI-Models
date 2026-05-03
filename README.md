@@ -19,7 +19,7 @@ Understanding this is especially important when working with models that charge 
 
 ## View Project 
 
-(TokenEfficiencyProject.pdf)
+[View Generative AI Sustainability Index PDF](GenerativeAISustainabilityIndex/TokenEfficiencyProject.pdf)
 
 ---
 
